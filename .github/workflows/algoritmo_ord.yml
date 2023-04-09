@@ -38,6 +38,14 @@ jobs:
         name: relatorio-testes
         path: exercicioStrategy/target/site/
 
+  notification-pipe:
+    runs-on: ubuntu-latest
+    
+    needs: test
+    steps:
+    - name: Notificar o andamento da pipeline
+      run: echo "Testes finalizados. Build em andamento!"
+      
   build:
     runs-on: ubuntu-latest
 
