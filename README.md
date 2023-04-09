@@ -9,6 +9,9 @@
 <img src="https://img.shields.io/static/v1?label=GD&message=Maven&color=9acd32&style=plastic"/>
 
 <img src="https://img.shields.io/static/v1?label=IDE&message=IntelliJ&color=5f9ea0&style=plastic"/>
+  
+[![Exercicio Pratico - CI](https://github.com/MaMBassi/S107/actions/workflows/algoritmo_ord.yml/badge.svg)](https://github.com/MaMBassi/S107/actions/workflows/algoritmo_ord.yml)
+  
 </p>
 
 ### :books: Exercícios Práticos
