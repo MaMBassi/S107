@@ -42,7 +42,7 @@ Para a execução dos projetos, é possível fazer o download do código direto 
   - InsertionSort: ordena os dados, em ordem crescente, utilizando o Algoritmo Insertion Sort;
   - BubbleSort: ordena os dados, em ordem crescente, utilizando o Algoritmo Bubble Sort;
   - ArraySortDecrescente: ordena os dados, em ordem decrescente, utilizando o método .sort( ) do Collections;
-  - 
+  
 - src/main/java/package:
   -  Principal: classe main que será executada para o sistema ordenar os dados de uma lista pré-definida, de acordo com o algoritmo de ordenação escolhido.
   -  SistemaOrdenarDados: classe abstrata.
